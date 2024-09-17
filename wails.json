@@ -6,7 +6,6 @@
   "frontend:install": "pnpm install",
   "frontend:build": "pnpm run build",
   "frontend:dev:watcher": "pnpm run dev",
-  "frontend:dev:serverUrl": "http://localhost:8000/",
   "author": {
     "name": "cococolanosugar@gmail.com",
     "email": "cococolanosugar@gmail.com"
