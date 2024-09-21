@@ -1,0 +1,3 @@
+[submodule "afrontend"]
+	path = afrontend
+	url = https://github.com/cococolanosugar/fa-tools-frontend.git

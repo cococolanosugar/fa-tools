@@ -2,7 +2,7 @@
   "$schema": "https://wails.io/schemas/config.v2.json",
   "name": "fa-tools",
   "outputfilename": "fa-tools",
-  "frontend:dir": "frontend",
+  "frontend:dir": "afrontend",
   "frontend:install": "pnpm install",
   "frontend:build": "pnpm run build",
   "frontend:dev:watcher": "pnpm run dev",
